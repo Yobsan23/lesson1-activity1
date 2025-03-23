@@ -1,0 +1,17 @@
+<DOCTYPE html><!--declaration of document type-->
+<html><!--html document start-->
+    <head><!--head -->
+        <title>
+            HTML structure
+        </title><!--title for browser tab-->
+    </head><!--head ends here-->
+    <body><!--main content starts here-->
+    <!--my introduction-->
+        my name is Yobsan Tadesse and i am grade 9<br>
+        <!--learning statment-->
+        today I am learning about HTML<br><!--line break-->
+        
+        <!--explanation of HTML-->
+        HTML- HyperTextMarkupLanguage
+    </body><!--main content ends-->
+</html><!--HTML document ends-->
